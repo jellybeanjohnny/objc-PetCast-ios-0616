@@ -1,4 +1,5 @@
 //  FISAppDelegate.h
+#import <UIKit/UIKit.h>
 
 @interface FISAppDelegate : UIResponder <UIApplicationDelegate>
 
